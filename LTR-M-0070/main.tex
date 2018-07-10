@@ -10,11 +10,10 @@
 
 \newtheorem{general}{Generalization}
 \newtheorem{initprob}{Exploration Problem}
-%\usepackage{tikz-cd}
+\usepackage{tikz-cd}
 \usetikzlibrary{shapes.geometric}
 \usetikzlibrary{arrows}
-%\pgfplotsset{compat=1.14}
-%\input{preamble.tex}
+\pgfplotsset{compat=1.14}
 
 
 
@@ -398,8 +397,8 @@ So, intuition tells us that $R_{\theta}$ is linear.
 
 
 %\begin{figure}[h]
-\begin{center}
-\begin{image}\label{fig:rotlintransright} 
+
+\begin{image}[4.5in]\label{fig:rotlintransright} 
 \begin{tikzpicture}[scale=0.8]
 
   \draw[<->] (-1,0)--(5,0);
@@ -424,7 +423,7 @@ So, intuition tells us that $R_{\theta}$ is linear.
   
   \end{tikzpicture}
   \end{image}
-  \end{center}
+ 
 %\caption{Vectors $\vec{u}$ and $\vec{v}$ are rotated individually, then scalar multiples of their images, $k_1R_{\theta}(\vec{u})$ and $k_2R_{\theta}(\vec{v})$, are added together.}
   
 %\end{figure}
@@ -718,9 +717,13 @@ Note that the eye of the duck in Figure \ref{fig:reflectedduck} is located on th
 If a linear transformation is followed by another linear transformation, the resulting transformation can be represented by a product of the two matrices that induce the individual transformations.  Thus, if $T_1$ is induced by $M_1$ and $T_2$ is induced by $M_2$, then $T=T_2\circ T_1$ is induced by $M=M_2M_1$.
 
 \begin{center}
+\begin{tikzpicture}
+\node{
 \begin{tikzcd}
 \RR^2\rar{T_1}\arrow[black, bend right]{rr}[black,swap]{T}  & \RR^2 \rar{T_2}  & \RR^2
 \end{tikzcd}
+};
+\end{tikzpicture}
 \end{center}
 
 Remember that matrix multiplication is not commutative, so the order in which the matrices are multiplied is of utmost importance.

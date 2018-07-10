@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.7.9)  10 JUL 2018 14:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.7.9)  10 JUL 2018 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -899,6 +899,26 @@ Excluding comment 'CC-BY 4.0'
 \c@general=\count191
 \c@initprob=\count192
 
+(c:/texlive/2018/texmf-dist/tex/latex/tikz-cd/tikz-cd.sty
+Package: tikz-cd 2014/10/30 v0.9e Commutative diagrams with tikz
+
+(c:/texlive/2018/texmf-dist/tex/generic/tikz-cd/tikzlibrarycd.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.4)
+)
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2014/03/21 v3.0.1a (rcs-revision 1.4)
+)
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.cod
+e.tex
+File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
+\pgfarrowinset=\dimen193
+\pgfarrowlength=\dimen194
+\pgfarrowwidth=\dimen195
+\pgfarrowlinewidth=\dimen196
+)))
 (c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
@@ -915,59 +935,57 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
 (c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen193
-))
-No file main.aux.
+\arrowsize=\dimen197
+)) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-(c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count193
-\scratchdimen=\dimen194
+\scratchdimen=\dimen198
 \scratchbox=\box47
 \nofMPsegments=\count194
 \nofMParguments=\count195
 \everyMPshowfont=\toks53
 \MPscratchCnt=\count196
-\MPscratchDim=\dimen195
+\MPscratchDim=\dimen199
 \MPnumerator=\count197
 \makeMPintoPDFobject=\count198
 \everyMPtoPDFconversion=\toks54
 ) ABD: EveryShipout initializing macros
-
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
-your preamble.
- on input line 21.
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.16} (current compat level: 1.14).
 
 \c@lstlisting=\count199
 \AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring ON on input line 21.
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+Package hyperref Info: Link coloring ON on input line 20.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+(./main.out) (./main.out)
 \@outlinefile=\write9
 \openout9 = `main.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 25.
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
+
 (c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 25.
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 
 (c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -975,126 +993,269 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <butterfly.jpg, id=9, 154.176pt x 114.4275pt>
 File: butterfly.jpg Graphic file (type jpg)
 <use butterfly.jpg>
-Package pdftex.def Info: butterfly.jpg  used on input line 32.
+Package pdftex.def Info: butterfly.jpg  used on input line 35.
 (pdftex.def)             Requested size: 146.0664pt x 108.405pt.
 <swirledbutterfly.jpg, id=10, 154.176pt x 114.4275pt>
 File: swirledbutterfly.jpg Graphic file (type jpg)
 <use swirledbutterfly.jpg>
-Package pdftex.def Info: swirledbutterfly.jpg  used on input line 33.
+Package pdftex.def Info: swirledbutterfly.jpg  used on input line 35.
 (pdftex.def)             Requested size: 146.0664pt x 108.405pt.
 
 
 LaTeX Warning: Reference `prob:linestolines' on page 1 undefined on input line 
-41.
+40.
 
 <building1.jpg, id=11, 154.176pt x 102.8643pt>
 File: building1.jpg Graphic file (type jpg)
 <use building1.jpg>
-Package pdftex.def Info: building1.jpg  used on input line 45.
+Package pdftex.def Info: building1.jpg  used on input line 44.
 (pdftex.def)             Requested size: 162.48709pt x 108.405pt.
 <building2.jpg, id=12, 158.994pt x 154.176pt>
 File: building2.jpg Graphic file (type jpg)
 <use building2.jpg>
-Package pdftex.def Info: building2.jpg  used on input line 46.
+Package pdftex.def Info: building2.jpg  used on input line 45.
 (pdftex.def)             Requested size: 111.7948pt x 108.405pt.
 [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./butterfly.jpg> <./swirledbutterfly.jpg>]
 
-LaTeX Warning: Reference `fig:vstretch' on page 2 undefined on input line 58.
+LaTeX Warning: Reference `fig:vstretch' on page 2 undefined on input line 57.
 
 <gulls.jpg, id=31, 462.528pt x 308.5929pt>
 File: gulls.jpg Graphic file (type jpg)
 <use gulls.jpg>
-Package pdftex.def Info: gulls.jpg  used on input line 64.
+Package pdftex.def Info: gulls.jpg  used on input line 63.
 (pdftex.def)             Requested size: 71.13188pt x 47.4547pt.
 <stretchedgulls.jpg, id=32, 226.446pt x 301.83353pt>
 File: stretchedgulls.jpg Graphic file (type jpg)
 <use stretchedgulls.jpg>
-Package pdftex.def Info: stretchedgulls.jpg  used on input line 71.
+Package pdftex.def Info: stretchedgulls.jpg  used on input line 70.
 (pdftex.def)             Requested size: 71.13188pt x 94.81093pt.
 [2 <./building1.jpg> <./building2.jpg> <./gulls.jpg> <./stretchedgulls.jpg>]
 
 LaTeX Warning: Reference `fig:vstretchvectors' on page 3 undefined on input lin
-e 103.
+e 102.
 
 
-LaTeX Warning: Reference `prob:k0' on page 3 undefined on input line 144.
+LaTeX Warning: Reference `prob:k0' on page 3 undefined on input line 143.
 
 [3] [4]
 <gull.jpg, id=54, 513.92pt x 684.5575pt>
 File: gull.jpg Graphic file (type jpg)
 <use gull.jpg>
-Package pdftex.def Info: gull.jpg  used on input line 257.
+Package pdftex.def Info: gull.jpg  used on input line 256.
 (pdftex.def)             Requested size: 71.13188pt x 94.74062pt.
 <shearedgull.jpg, id=55, 245.718pt x 469.2732pt>
 File: shearedgull.jpg Graphic file (type jpg)
 <use shearedgull.jpg>
-Package pdftex.def Info: shearedgull.jpg  used on input line 264.
+Package pdftex.def Info: shearedgull.jpg  used on input line 263.
 (pdftex.def)             Requested size: 71.13188pt x 135.84944pt.
  [5 <./gull.jpg> <./shearedgull.jpg>]
 
 LaTeX Warning: Reference `fig:rotlintransleft' on page 6 undefined on input lin
-e 366.
+e 365.
 
 
-LaTeX Warning: Reference `eq:rotlintrans' on page 6 undefined on input line 366
+LaTeX Warning: Reference `eq:rotlintrans' on page 6 undefined on input line 365
 .
 
 
-LaTeX Warning: Reference `eq:rotlintrans' on page 6 undefined on input line 394
+LaTeX Warning: Reference `eq:rotlintrans' on page 6 undefined on input line 393
 .
 
 <tower.jpg, id=64, 154.176pt x 102.8643pt>
 File: tower.jpg Graphic file (type jpg)
 <use tower.jpg>
-Package pdftex.def Info: tower.jpg  used on input line 453.
+Package pdftex.def Info: tower.jpg  used on input line 452.
 (pdftex.def)             Requested size: 128.0374pt x 85.426pt.
 <rotatedtower.jpg, id=65, 358.12366pt x 358.12366pt>
 File: rotatedtower.jpg Graphic file (type jpg)
 <use rotatedtower.jpg>
-Package pdftex.def Info: rotatedtower.jpg  used on input line 453.
+Package pdftex.def Info: rotatedtower.jpg  used on input line 452.
 (pdftex.def)             Requested size: 142.26378pt x 142.26877pt.
 [6] [7 <./tower.jpg> <./rotatedtower.jpg>]
 
 LaTeX Warning: Reference `fig:reflectdefinition' on page 8 undefined on input l
-ine 549.
+ine 548.
 
 [8]
 
-LaTeX Warning: Reference `fig:t1' on page 9 undefined on input line 588.
+LaTeX Warning: Reference `fig:t1' on page 9 undefined on input line 587.
 
 [9]
 
 LaTeX Warning: Reference `eq:reflectionline' on page 10 undefined on input line
- 630.
+ 629.
 
 [10]
 
 LaTeX Warning: Reference `fig:reflectedduck' on page 11 undefined on input line
- 684.
+ 683.
 
 <duck.jpg, id=94, 642.4pt x 458.71375pt>
 File: duck.jpg Graphic file (type jpg)
 <use duck.jpg>
-Package pdftex.def Info: duck.jpg  used on input line 690.
+Package pdftex.def Info: duck.jpg  used on input line 689.
 (pdftex.def)             Requested size: 71.13188pt x 50.78763pt.
 <reflectedduck.jpg, id=95, 390.08386pt x 431.87856pt>
 File: reflectedduck.jpg Graphic file (type jpg)
 <use reflectedduck.jpg>
-Package pdftex.def Info: reflectedduck.jpg  used on input line 698.
+Package pdftex.def Info: reflectedduck.jpg  used on input line 697.
 (pdftex.def)             Requested size: 78.24507pt x 86.62459pt.
 
-Overfull \hbox (7.81393pt too wide) detected at line 710
+Overfull \hbox (7.81393pt too wide) detected at line 709
 \OML/cmm/m/it/10 M \OT1/cmr/m/n/10 = [] [] = [] [] = []
  []
 
 
 LaTeX Warning: Reference `fig:reflectedduck' on page 11 undefined on input line
- 714.
+ 713.
 
 
 LaTeX Warning: Reference `prob:fixedpoint' on page 11 undefined on input line 7
-14.
+13.
 
-[11 <./duck.j
+[11 <./duck.jpg> <./reflectedduck.jpg>]
+
+LaTeX Warning: Reference `fig:reflectioncomp' on page 12 undefined on input lin
+e 745.
+
+
+LaTeX Warning: Reference `fig:reflectioncomp' on page 12 undefined on input lin
+e 747.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+[12]
+\c@depthICount=\count266
+
+
+LaTeX Warning: Reference `vscale' on page 13 undefined on input line 804.
+
+
+LaTeX Warning: Reference `hscale' on page 13 undefined on input line 804.
+
+[13]
+<sheep.jpg, id=122, 321.2pt x 228.855pt>
+File: sheep.jpg Graphic file (type jpg)
+<use sheep.jpg>
+Package pdftex.def Info: sheep.jpg  used on input line 826.
+(pdftex.def)             Requested size: 99.58464pt x 70.95479pt.
+<shearedsheep.jpg, id=123, 453.695pt x 228.855pt>
+File: shearedsheep.jpg Graphic file (type jpg)
+<use shearedsheep.jpg>
+Package pdftex.def Info: shearedsheep.jpg  used on input line 834.
+(pdftex.def)             Requested size: 140.5566pt x 70.89891pt.
+<chipmunk.jpg, id=124, 457.71pt x 457.71pt>
+File: chipmunk.jpg Graphic file (type jpg)
+<use chipmunk.jpg>
+Package pdftex.def Info: chipmunk.jpg  used on input line 859.
+(pdftex.def)             Requested size: 71.13188pt x 71.1259pt.
+File: chipmunk.jpg Graphic file (type jpg)
+<use chipmunk.jpg>
+Package pdftex.def Info: chipmunk.jpg  used on input line 868.
+(pdftex.def)             Requested size: 71.13188pt x 71.1259pt.
+ [14 <./sheep.jpg> <./shearedsheep.jpg> <./chipmunk.jpg>]
+
+LaTeX Warning: Reference `eq:imageofj' on page 15 undefined on input line 892.
+
+
+LaTeX Warning: Reference `ex:reflectedduck' on page 15 undefined on input line 
+896.
+
+
+LaTeX Warning: Reference `ex:reflectedduck' on page 15 undefined on input line 
+900.
+
+File: duck.jpg Graphic file (type jpg)
+<use duck.jpg>
+Package pdftex.def Info: duck.jpg  used on input line 910.
+(pdftex.def)             Requested size: 71.13188pt x 50.78763pt.
+<upsidedownduck.jpg, id=129, 398.46162pt x 284.1969pt>
+File: upsidedownduck.jpg Graphic file (type jpg)
+<use upsidedownduck.jpg>
+Package pdftex.def Info: upsidedownduck.jpg  used on input line 920.
+(pdftex.def)             Requested size: 71.13188pt x 50.73259pt.
+[15]
+File: reflectedduck.jpg Graphic file (type jpg)
+<use reflectedduck.jpg>
+Package pdftex.def Info: reflectedduck.jpg  used on input line 931.
+(pdftex.def)             Requested size: 78.24507pt x 86.62459pt.
+ [16 <./upsidedownduck.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 968.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 968.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 968.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 968.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  8827F255DF511F83CEC352B24100C3C9;74.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 968.
+ ) 
+Here is how much of TeX's memory you used:
+ 31798 strings out of 492646
+ 751339 string characters out of 6133326
+ 930138 words of memory out of 5000000
+ 35049 multiletter control sequences out of 15000+600000
+ 14374 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,17n,111p,732b,1398s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2018/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2018
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2018/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c
+:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (16 pages, 2234972 bytes).
+PDF statistics:
+ 208 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+

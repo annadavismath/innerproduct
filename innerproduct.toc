@@ -1,0 +1,2 @@
+\contentsline {section}{Dot Product and its Properties}{3}{section*.1}
+\contentsfinish 
